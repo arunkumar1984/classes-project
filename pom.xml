@@ -3,8 +3,8 @@
   <groupId>com.sqa.av</groupId>
   <artifactId>classes-project</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Classes Project</name>
-  <description>A Basic Maven Project</description>
+  <name>Basic Project on Classes</name>
+  <description>A Basic Classes Project</description>
   	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
