@@ -1,6 +1,6 @@
-# Basic-Project (Master branch)
+# Classes Project (Master branch)
 
-##Warm up Day 04: Basic Project -- 05/23/2016
-To stock up various classes to be created during the course
+##Day 07: Basic Project -- 05/28/2016
+* Classes concept
 
 [Arunkumar Venkatraman](http://sqasolution.com)
